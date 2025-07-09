@@ -18,14 +18,14 @@ I'm a Full-Stack Developer passionate about open-source contributions, Creative 
 - Exploring backend development with Node.js, MongoDB, and API integrations.
 - Learning best practices in Git, CI/CD, and deployment using platforms like Vercel and Netlify.
 
- 📈 GitHub Stats
+# 📈 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=puttaraj05&show_icons=true&theme=radical&hide=stars,commits)
 
- 📫 How to Reach Me
+# 📫 How to Reach Me
 - LinkedIn: 
 - Email: hiremathputttraj05@gmail.com
 
- 🎯 Goals for 2023
+# 🎯 Goals for 2023
 - Contribute to more open-source projects.
 - Strengthen problem-solving skills through regular DSA practice.
 - Build and deploy a full-stack AI-based web application.
