@@ -6,7 +6,7 @@ I'm a Full-Stack Developer passionate about open-source contributions, Creative 
 - **Languages:** Python, JavaScript, Java, c, css,HTML
 - **Frameworks:** React.js, Node.js, Express.js
 - **Tools:**  Git, GitHub, VS Code, Postman, Netlify, Vercel
-- **Database:** MongoDB, MySQL
+- **Database:** MySQL
 - **Other:** Web Development (Frontend & Backend), REST APIs, Responsive Design, Problem Solving
 
 # 🔭 Current Projects 
@@ -17,9 +17,6 @@ I'm a Full-Stack Developer passionate about open-source contributions, Creative 
 - Currently diving deeper into Cloud Computing, DevOps, Machine Learning, and System Design.
 - Exploring backend development with Node.js, MongoDB, and API integrations.
 - Learning best practices in Git, CI/CD, and deployment using platforms like Vercel and Netlify.
-
-# 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=puttaraj05&show_icons=true&theme=radical&hide=stars,commits)
 
 # 📫 How to Reach Me
 - LinkedIn: 
