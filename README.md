@@ -19,7 +19,7 @@ I'm a Full-Stack Developer passionate about open-source contributions, Creative 
 - Learning best practices in Git, CI/CD, and deployment using platforms like Vercel and Netlify.
 
 # 📫 How to Reach Me
-- LinkedIn: 
+- LinkedIn:https://www.linkedin.com/in/puttarajh05/ 
 - Email: hiremathputttraj05@gmail.com
 
 # 🎯 Goals for 2023
