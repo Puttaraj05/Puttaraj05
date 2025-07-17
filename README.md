@@ -12,7 +12,7 @@ I'm a Full-Stack Developer passionate about open-source contributions, Creative 
 # 🔭 Current Projects 
 - [Snap Study](https://github.com/Puttaraj05/Snap-study): A web application that helps students manage and summarize study materials using AI-powered tools.
 - [Object Dimension Detector](https://github.com/Puttaraj05/Object-dimension-detector): A computer vision tool that detects real-world object dimensions using a camera and reference markers.
-- [Smart Waste Segregation Assistant](: An AI-powered web app that classifies waste into categories like recyclable, organic, hazardous, and more using image recognition to assist in sustainable household waste disposal.
+- [Smart Waste Segregation Assistant](https://github.com/Puttaraj05/Smart-Waste-Segregation-Assistant): An AI-powered web app that classifies waste into categories like recyclable, organic, hazardous, and more using image recognition to assist in sustainable household waste disposal.
 
 # 🌱 Learning
 - Currently diving deeper into Cloud Computing, DevOps, Machine Learning, and System Design.
