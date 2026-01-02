@@ -23,7 +23,7 @@ I'm a Full-Stack Developer passionate about open-source contributions, Creative 
 - LinkedIn:https://www.linkedin.com/in/puttarajhiremath05/ 
 - Email: hiremathputttraj05@gmail.com
 
-# 🎯 Goals for 2023
+# 🎯 Goals for 2026
 - Contribute to more open-source projects.
 - Strengthen problem-solving skills through regular DSA practice.
 - Build and deploy a full-stack AI-based web application.
